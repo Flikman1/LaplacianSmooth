@@ -1,4 +1,3 @@
-
 # 🛰️ Laplacian Mesh Smoothing — Sci-Fi UI
 
 Интерактивное приложение на **Python + PyQt5 + PyVista** для сглаживания 3D-сеток методом **Laplacian smoothing**.  
@@ -26,7 +25,7 @@
    ```bash
    git clone https://github.com/username/laplacian-smoothing-sci-fi.git
    cd laplacian-smoothing-sci-fi
-````
+
 
 2. **Создай виртуальное окружение** (рекомендуется):
 
